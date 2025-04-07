@@ -1,0 +1,13 @@
+{
+  "name": "Gairos Wiz Pitcher #17",
+  "description": "Gairos 위즈의 전설적인 왼손 투수. 선글라스를 낀 채 150km 강속구를 던진다.",
+  "image": "https://raw.githubusercontent.com/mygithub05253/baseball-nft/main/wiz_pitcher1.png",
+  "attributes": [
+    { "trait_type": "Position", "value": "Pitcher" },
+    { "trait_type": "Team", "value": "Gairos Wiz" },
+    { "trait_type": "Number", "value": "17" },
+    { "trait_type": "Throwing Hand", "value": "Left" },
+    { "trait_type": "Glasses", "value": "Sunglasses" },
+    { "trait_type": "Rarity", "value": "Legendary" }
+  ]
+}
